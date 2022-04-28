@@ -79,4 +79,5 @@ sudo reboot now
 - Enter the IP Address of raspberry pi
 - Type SSH username and password.
 
+:dog:
 
